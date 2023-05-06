@@ -78,9 +78,9 @@ table{
     background: #210062;
     align-items: center;
     width: 830px;
-	  border-collapse: collapse;
-	  overflow: hidden;
-	  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
     font-family: 'Merriweather', serif;
 }
 
